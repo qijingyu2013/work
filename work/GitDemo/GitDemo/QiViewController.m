@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    //为水电费水电费水电费水电费收费
 }
 
 - (void)didReceiveMemoryWarning
